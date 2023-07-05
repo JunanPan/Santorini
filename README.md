@@ -1,4 +1,4 @@
-##To start the game:
+## To start the game:
 * To install settings:
     * run "npm install" in front-end folder
     * run "mvn install"
@@ -28,6 +28,11 @@ Define GameState as final, define the game object in GameState as final private.
 ## AI
 When select gods card, choose "AI" as Game Mode to player with AI. Since AI now is the player2, AI can use the god card you chose for player2.
 The implementation is front end act as the second player, when it is the second player's turn, it keep sending random play request to back end until it is accepted by back-end. It is absolutely a working AI that can play the basic game against a human and can be selected in the user interface and also can make use of the god cards!
+
+## Overview
 ![overview1](./pics/1.png)
 ![overview2](./pics/2.png)
-
+![object_model](./pics/object_model.png)
+![domain_model](./pics/domain_model.png)
+![interaction_model](./pics/interaction_model.png)
+![system_diagram](./pics/system_diagram.png)

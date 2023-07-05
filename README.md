@@ -34,5 +34,5 @@ The implementation is front end act as the second player, when it is the second 
 ![overview2](./pics/2.png)
 ![object_model](./pics/object_model.png)
 ![domain_model](./pics/domain_model.png)
-![interaction_model](./pics/interaction_model.png)
+![interaction_model](./pics/interaction_diagram.png)
 ![system_diagram](./pics/system_diagram.png)
